@@ -1,5 +1,3 @@
-# books
-
 <div class="book-wrapper">
 
 # The Bookshelf 
