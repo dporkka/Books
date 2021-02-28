@@ -11,7 +11,6 @@ Here are some of my favorite books arranged by topic. Some of my notes for these
 
 ## Contents
 ----------------
-<br />
 
 1. [Happiness](#happiness)
 2. [Business](#business)
@@ -23,7 +22,6 @@ Here are some of my favorite books arranged by topic. Some of my notes for these
 8. [Creativity](#creativity) 
 9. [Fiction](#fiction)
 
-<br />
 
 -----------------
 
